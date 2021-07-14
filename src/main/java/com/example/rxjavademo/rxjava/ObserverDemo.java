@@ -1,8 +1,5 @@
 package com.example.rxjavademo.rxjava;
 
-import rx.Observable;
-import rx.Observer;
-import rx.observers.Observers;
 
 public class ObserverDemo {
 
